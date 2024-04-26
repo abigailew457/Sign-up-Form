@@ -1,7 +1,6 @@
-body {
-    display: flex;
-}
-
-#user-interaction {
+body, 
+#user-interaction,
+#sign-in,
+#photo-credits {
     display: flex;
 }
